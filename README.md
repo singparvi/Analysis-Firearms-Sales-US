@@ -11,4 +11,4 @@ https://parvisingh.medium.com/us-guns-sales-statistics-from-2001-to-2020-df50127
 
 The dataset contains the following features:
 
-I have used data from [BuzzFeedNews](https://raw.githubusercontent.com/BuzzFeedNews/nics-firearm-background-checks/master/data/nics-firearm-background-checks.csv). Although there are several columns in the dataset, the only columns that were used are month, state and totals. The totals column in the data represents the net guns purchased in any given month.
+I have used data from [BuzzFeedNews](https://raw.githubusercontent.com/BuzzFeedNews/nics-firearm-background-checks/master/data/nics-firearm-background-checks.csv), which collects data from a public FBI database. Although there are several columns in the dataset, the only columns that were used are month, state and totals. The totals column in the data represents the net guns purchased in any given month.
