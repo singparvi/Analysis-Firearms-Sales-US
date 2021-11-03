@@ -1,8 +1,8 @@
-# US Gun Sales Data Analysis
+# Data Analysis for Firearms Sales in the US
 
-![US Flag with Gun](https://miro.medium.com/max/700/1*926jP_36hBwSUcpKY4AGIA.jpeg)
+![US Flag with Gun](https://www.gannett-cdn.com/media/2019/06/30/USATODAY/usatsports/gettyimages-153718849.jpg)
 
-The USA make it to headlines very often when it comes to guns sold in the country. As a data scientist, I decided to analyze the statistics of gun sales in the US and see a trend of gun sales. My analysis brought in some exciting patterns. I have plotted and analyzed the data in this post: 
+The USA make it to headlines very often when it comes to firearms sold in the country. As a data scientist, I decided to analyze the statistics of firearm sales in the US and see a trend of firearm sales. My analysis brought in some exciting patterns. I have plotted and analyzed the data in this post: 
 
 https://parvisingh.medium.com/us-guns-sales-statistics-from-2001-to-2020-df50127be121
 
